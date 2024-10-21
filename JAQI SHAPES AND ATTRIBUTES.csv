@@ -1,0 +1,25 @@
+,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51
+,shape_id,material_type,production_process,cold_finishing_process,heat_treated_condition,surface_condition,surface_finish,end_type,edge_type,standard_designation,quality_designation,d_grade,uom_system,d_size,d_height,rebar_size_designation,cross_sectional_area,structural_size_designation,d_depth,flange_thickness,web_thickness,d_sidea,d_sideb,d_width,d_wallthickness,d_outerdiameter,d_innerdiameter,d_nominalsize,d_schedule,d_thickness,d_gauge,d_length,d_swd,d_lwd,d_swo,d_lwo,d_open_area,d_type,d_strand_width,weight_per_length,weight_per_surface_area,weight_per_piece,coating_type,coating_designation,coating_thickness,coating_weight
+,Shape / Product Type,Material Type,Production Process,Cold Finishing Process,Heat Treated Condition,Surface Condition,Surface Finish,End Type,Edge Type,Standard,Quality,Alloy Grade,,Bar Size,Height,Rebar Size Designation,Cross Sectional Area,Structural Size Designation,Depth,Flange Thickness,Web Thickness,Angle Leg1,Angle Leg2,Width (or Span),Tube or Pipe Wall Thickness,Pipe or Tube O.D.,Pipe or Tube I.D.,Nominal Pipe Size,Pipe Schedule,Thickness,Gauge,Length,Expanded Metal SWD,Expanded Metal LWD,Expanded Metal SWO,Expanded Metal SWO,Expanded Metal/Grating % Open Area,Expanded Metal/Grating Type,Expanded Metal Strand Width,Weight / Length,Weight / Surface Area,Weight / Piece,Type of Coating,Coating Designation,Coating Thickness,Coating Weight
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Round Bar,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+Square Bar,YES,YES,YES,YES,YES,YES,YES,,YES,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+Hex Bar,YES,YES,YES,YES,YES,YES,YES,,YES,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+Flat Bar,YES,YES,YES,YES,YES,YES,YES,,,YES,YES,YES,YES,,,,,,,,,,,YES,,,,,,YES,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+Round Tube / HSS,YES,YES,YES,YES,YES,YES,YES,YES,,YES,YES,YES,YES,,,,YES,YES,,,,,,,YES,YES,YES,,,,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+Pipe,YES,YES,YES,YES,YES,YES,YES,YES,,YES,YES,YES,YES,,,,YES,,,,,,,,YES,YES,YES,YES,YES,,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+Sheet,YES,YES,YES,YES,YES,YES,YES,,YES,YES,YES,YES,YES,,,,,,,,,,,YES,,,,,,YES,YES,YES,,,,,,,,,YES,YES,YES,YES,YES,YES
+Plate,YES,YES,YES,YES,YES,YES,YES,,YES,YES,YES,YES,YES,,,,,,,,,,,YES,,,,,,YES,YES,YES,,,,,,,,,YES,YES,YES,YES,YES,YES
+Half Round / Oval,YES,YES,YES,YES,YES,YES,YES,,YES,YES,YES,YES,YES,,YES,,,,,,,,,YES,,,,,,,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+ReBar,YES,YES,YES,YES,YES,YES,,,,YES,YES,YES,YES,YES,,YES,YES,,,,,,,,,,,,,,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+Wire Rod Coil,YES,YES,YES,YES,YES,YES,,,,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+"Beam (S-Beam, I-Beam, W-Beam, H-Beam, Bearing Pile)",YES,YES,YES,YES,YES,YES,YES,,,YES,YES,YES,YES,,,,YES,YES,YES,YES,YES,,,YES,,,,,,,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+L Angle,YES,YES,YES,YES,YES,YES,YES,,,YES,YES,YES,YES,,,,,YES,,,,YES,YES,,,,,,,YES,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+C Channel,YES,YES,YES,YES,YES,YES,YES,,,YES,YES,YES,YES,,,,YES,YES,YES,,YES,,,YES,,,,,,,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+Tees,YES,YES,YES,YES,YES,YES,YES,,,YES,YES,YES,YES,,,,YES,,YES,YES,YES,,,YES,,,,,,,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+Square Tube / HSS,YES,YES,YES,YES,YES,YES,YES,,,YES,YES,YES,YES,,YES,,YES,YES,,,,,,YES,YES,,,,,,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+Rectangular Tube / HSS,YES,YES,YES,YES,YES,YES,YES,,,YES,YES,YES,YES,,YES,,YES,YES,,,,,,YES,YES,,,,,,,YES,,,,,,,,YES,,YES,YES,YES,YES,YES
+Flatroll Coil / Band,YES,YES,YES,YES,YES,YES,YES,,YES,YES,YES,YES,YES,,,,,,,,,,,YES,,YES,YES,,,YES,YES,YES,,,,,,,,,YES,YES,YES,YES,YES,YES
+Expanded Metal,YES,YES,YES,,,YES,YES,,,YES,,YES,YES,,,,,,,,,,,YES,,,,,,YES,YES,YES,YES,YES,YES,YES,YES,YES,YES,,YES,YES,YES,YES,,
+Bar Grating,YES,YES,YES,,,YES,YES,,,YES,,YES,YES,,YES,,,,,,,,,YES,,,,,,YES,,YES,,,,,YES,,,,YES,YES,YES,YES,,
+Grip Strut,YES,YES,YES,,,YES,YES,,,YES,,YES,YES,,,,,,YES,,,,,YES,,,,,,YES,YES,YES,,,,,,,,,YES,YES,YES,YES,,

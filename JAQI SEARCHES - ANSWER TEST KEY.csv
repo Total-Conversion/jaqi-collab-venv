@@ -1,0 +1,8 @@
+```csv
+$ID,Query,shape_name,Qty,Qty.UOM,material_type,d_grade,d_gauge,d_depth,d_size,d_height,d_width,d_length,d_thickness,d_sidea,d_sideb,d_wallthickness,d_outerdiameter,d_innerdiameter,d_nominalsize,d_schedule,weight_per_length,web_thickness,production_process,standard_designation,structural_size_designation,surface_condition,surface_finish,heat_treated_condition,cold_finishing_process,weight_per_piece,coating_type,edge_type,quality_designation
+1,2” X 1” X .125 6063 Aluminum angle (square corners) X 16’ Qty_200,Angle,200,piece,Aluminum,6063,,,,,1,192,.125,,,,,,,,,,,,,,,,,,,square corners,
+2,1 DOMTU2X1/4 160007087 Carbon Round Tube 1026 DOM 2 1060 FT FT,Round Tube,1060,foot,Carbon Steel,1026,,,,,,,,,,,.25,2,,,,,,Drawn Over Mandrel,,,,,,,,,,
+3,ES-MA-202-2/4 Rev: D Rnd,4130,Rc-18-22,6A,75K,Temp K,20.2000” Need 2 pcs cut at 10.75” Long Each,Round Bar,2,piece,Alloy Steel,4130,,,,,,20.2,,,,,,,,,,,,,,,Rc-18-22,,,,,
+4,15 @ 20 Ga. #4 stainless 48” x 120”,Sheet,15,piece,Stainless Steel,,20,,,,48,120,,,,,,,,,,,,,,,,#4,,,,
+5,210PCS 1215 CF ROUND 7/16” X 12’,Round Bar,210,piece,Carbon Steel,1215,,,,,,,144,,,,,,,,,,,Cold-Finished,,,,,,,,
+```
